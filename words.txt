@@ -1,0 +1,6 @@
+code
+place
+stanford
+test
+candy
+pizza
